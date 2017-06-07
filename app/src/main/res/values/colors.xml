@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#08a2be</color>
+    <color name="colorPrimaryDark">#037e94</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="colorAccent">#08a2be</color>
+    <color name="primary_light">#B2DFDB</color>
+
+
+    <color name="position0">#0394ae</color>
+    <color name="position1">#037e94</color>
+    <color name="position2">#037184</color>
+    <color name="position3">#045c6b</color>
+    <color name="position4">#034c58</color>
+    <color name="position5">#03414b</color>
+    <color name="position6">#043138</color>
+
+    <color name="colorPrimary2">#08a2be</color>
+    <color name="colorPrimaryDark2">#037e94</color>
+    <color name="icons2">#FFFFFF</color>
+    <color name="colorAccent2">#08a2be</color>
+    <color name="primary_light2">#B2DFDB</color>
+
+    <!--Old theme color-->
+    <color name="colorPrimary1">#70b0c7</color>
+    <color name="colorPrimaryDark1">#4993ad</color>
+    <color name="icons1">#FFFFFF</color>
+    <color name="colorAccent1">#70b0c7</color>
+    <color name="primary_light1">#B2DFDB</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="gray">#21252a</color>
+    <color name="orange">#00BCD4</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteone">#11ffffff</color>
+    <color name="white_2">#6666ccc9</color>
+    <color name="white_1">#994993ad</color>
+    <color name="white_status_bar">#4993ad</color>
+
+    <color name="green">#00b300</color>
+
+    <color name="blue">#ff14445a</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="red">#FFEB071A</color>
+    <color name="pink">#ff075e</color>
+
+    <color name="gridOne">#26A69A</color>
+    <color name="gridTwo">#009688</color>
+    <color name="gridThree">#00796B</color>
+    <color name="gridFour">#00796B</color>
+    <color name="gridFive">#00695C</color>
+    <color name="gridSix">#004D40</color>
+    <color name="md_pink_700">#C2185B</color>
+    <color name="md_pink_800">#AD1457</color>
+    <color name="md_pink_900">#880E4F</color>
+    <color name="one">#ff5100</color>
+    <color name="two">#ff0062</color>
+    <color name="two1">#b5ba0148</color>
+    <color name="two2">#a8d70354</color>
+    <color name="two3">#96ff0062</color>
+    <color name="three">#0055ff</color>
+    <color name="three1">#b50055ff</color>
+    <color name="three2">#a81c67fc</color>
+    <color name="three3">#963b7cff</color>
+    <color name="four">#b300ff</color>
+    <color name="md_teal_50">#E0F2F1</color>
+    <color name="md_teal_100">#B2DFDB</color>
+    <color name="md_teal_200">#80CBC4</color>
+    <color name="md_teal_300">#4DB6AC</color>
+    <color name="md_teal_400">#26A69A</color>
+    <color name="md_teal_500">#009688</color>
+    <color name="md_teal_600">#00897B</color>
+    <color name="md_teal_700">#00796B</color>
+    <color name="md_teal_800">#00695C</color>
+    <color name="md_teal_900">#004D40</color>
+    <color name="md_teal_A100">#A7FFEB</color>
+    <color name="md_teal_A200">#64FFDA</color>
+    <color name="md_teal_A400">#1DE9B6</color>
+    <color name="md_teal_A700">#00BFA5</color>
+
+    <color name="gridOne1">#00524a</color>
+    <color name="gridTwo1">#00413b</color>
+    <color name="gridThree1">#00302c</color>
+    <color name="gridFour1">#001f1c</color>
+    <color name="gridFive1">#000e0d</color>
+    <color name="gridSix1">#000000</color>
+
+    <color name="light_gray">#ECEFF1</color>
+
+    <color name="greyOne">#FF838383</color>
+    <color name="greyTwo">#757575</color>
+    <color name="greyThree">#616161</color>
+    <color name="greyFour">#434343</color>
+    <color name="greyFive">#353535</color>
+    <color name="greySix">#212121</color>
+
+    <color name="yellow" >#e5e500</color>
+
+    <color name="whiteStart">#b6b6b6</color>
+
+    <color name="whiteGrey">#f4f3f3</color>
+
+    <color name="orange_red">#fa795c</color>
+    <color name="orange_red_1">#ff866b</color>
+    <color name="orange_red_2">#f0765d</color>
+    <color name="orange_red_3">#c24930</color>
+
+    <color name="red_orange_1">#fc5347</color>
+    <color name="red_orange_2">#ff6259</color>
+    <color name="red_orange_3">#f0534a</color>
+    <color name="red_orange_4">#eb3f36</color>
+
+    <color name="dark_orange">#e53935</color>
+
+    <color name="color16">#CDDC39</color>
+    <color name="color18">#A4B42B</color>
+    <color name="color20">#827717</color>
+
+    <color name="color28">#FF8A65</color>
+    <color name="color31">#F4511E</color>
+    <color name="color34">#BF360C</color>
+
+    <color name="color42">#4fC3F7</color>
+    <color name="color45">#039BE5</color>
+    <color name="color48">#01579B</color>
+    <color name="color421">#3a4fc3f7</color>
+    <color name="color451">#85039be5</color>
+    <color name="color481">#9001579b</color>
+
+    <!--Old nav menu gradient-->
+    <color name="color4211">#c84fc3f7</color>
+    <color name="color4511">#96039be5</color>
+    <color name="color4811">#9601579b</color>
+
+    <color name="crimson">#99DC143C</color>
+
+    <!-- BRAND -->
+    <color name="brand_red">#d51826</color>
+    <color name="brand_main">#21a5b8</color>
+    <color name="brand_main_1">#1f8b9b</color>
+    <color name="brand_main_2">#15606c</color>
+    <color name="brand_main_3">#0b363c</color>
+    <color name="brand_secondary">#83a1a6</color>
+    <color name="brand_secondary_dark">#7B989C</color>
+    <color name="brand_secondary_1">#516366</color>
+    <color name="brand_secondary_1_opacity_50">#80516366</color>
+    <color name="brand_secondary_1_opacity_90">#E6516366</color>
+
+    <!-- GREY -->
+    <color name="white_opacity_30">#3Cffffff</color>
+    <color name="white_opacity_50">#80ffffff</color>
+    <color name="white_opacity_70">#B4ffffff</color>
+    <color name="grey_light">#f6f6f6</color>
+    <color name="grey_light_1">#eeeeee</color>
+    <color name="grey_light_2">#e6e6e6</color>
+    <color name="grey">#cccccc</color>
+    <color name="grey_1">#bbbbbb</color>
+    <color name="grey_2">#999999</color>
+    <color name="grey_dark">#666666</color>
+    <color name="grey_dark_1">#444444</color>
+    <color name="grey_dark_2">#333333</color>
+    <color name="navigation">#222222</color>
+    <color name="grey_dark_2_opacity_25">#40333333</color>
+    <color name="black_opacity_25">#40000000</color>
+    <color name="black_opacity_66">#99000000</color>
+    <color name="grey_transperant">#98cccccc</color>
+    <color name="black_transperant">#ac2e2e2e</color>
+    <color name="black_transperant1">#002e2e2e</color>
+    <color name="new_1">#875f7e</color>
+    <color name="new_2">#cfc291</color>
+    <color name="new_3">#13b0a3</color>
+    <color name="new_4">#f0af37</color>
+    <color name="new_5">#eb6260</color>
+    <color name="new_6">#cc6e9f</color>
+
+</resources>

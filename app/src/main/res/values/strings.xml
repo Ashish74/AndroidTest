@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AshishTest</string>
+
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="item_4">Item 4</string>
+    <string name="item_5">Item 5</string>
+
+    <string name="text_view_1">TextView1</string>
+    <string name="text_view_2">TextView2</string>
+    <string name="text_view_3">TextView3</string>
+
+    <string name="btn_red">redBtn</string>
+    <string name="btn_blue">blueBtn</string>
+    <string name="btn_green">greenBtn</string>
+
+    <string name="txt_test_1">Test1</string>
+    <string name="txt_test_2">Test2</string>
+
+    <string name="nodata">No Data Available</string>
+    <string name="Loading">Loading..</string>
+    <string name="txt_Loding">Loading...</string>
+    <string name="txt_nodata">No Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

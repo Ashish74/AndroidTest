@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.ashish.test.activity.Test2Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/rlChooseLocation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_medium"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:layout_marginRight="@dimen/margin_small"
+                android:background="@drawable/new_login_edittext"
+                android:elevation="@dimen/elevation"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/tvChooseLocation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="10dp"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="@dimen/margin_medium"
+                    android:layout_toRightOf="@+id/ivChooseLocation"
+                    android:hint="Choose Location"
+                    android:textSize="@dimen/text_large" />
+
+                <ImageView
+                    android:id="@+id/ivChooseLocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:padding="@dimen/padding_low_medium"
+                    android:src="@drawable/ic_tourist"
+                    android:tint="@color/white" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_medium"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:layout_marginRight="@dimen/margin_small"
+                android:elevation="@dimen/elevation"
+                android:background="@drawable/new_login_edittext"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_weight="1">
+
+
+                <ImageView
+                    android:id="@+id/ivTransportMode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:padding="@dimen/padding_low_medium"
+                    android:src="@drawable/ic_tourist"
+                    android:tint="@color/white" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="10dp"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="@dimen/margin_medium"
+                    android:gravity="center_horizontal"
+                    android:layout_toRightOf="@id/ivTransportMode"
+                    android:hint="Mode of Transport"
+                    android:textSize="@dimen/text_large" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_medium"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:layout_marginRight="@dimen/margin_small"
+                android:elevation="@dimen/elevation"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_weight="1">
+
+
+                <ImageView
+                    android:id="@+id/ivTransportModeCar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:padding="@dimen/padding_low_medium"
+                    android:src="@drawable/ic_car"
+                    android:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/tvTransportModeCar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding_medium"
+                    android:gravity="center_horizontal"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="@dimen/margin_medium"
+                    android:layout_toRightOf="@+id/ivTransportModeCar"
+                    android:textSize="@dimen/text_large" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_medium"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:layout_marginRight="@dimen/margin_small"
+                android:elevation="@dimen/elevation"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_weight="1">
+
+
+                <ImageView
+                    android:id="@+id/ivTransportModeTrain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin_small"
+                    android:padding="@dimen/padding_low_medium"
+                    android:src="@drawable/ic_train"
+                    android:tint="@color/white" />
+
+                <TextView
+                    android:id="@+id/tvTransportModeTrain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/padding_medium"
+                    android:gravity="center_horizontal"
+                    android:textColorHint="@color/white"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="@dimen/margin_medium"
+                    android:layout_toRightOf="@+id/ivTransportModeTrain"
+                    android:textSize="@dimen/text_large" />
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btNavigate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Navigate"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
